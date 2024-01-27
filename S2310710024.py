@@ -27,8 +27,8 @@ print("Friction:", args.friction)
 # Implementation
 
 mass = args.mass          # mass
-velocity0 = args.velocity     # v(t=0)
-friction = args.friction      # mu
+velocity0 = args.velocity # v(t=0)
+friction = args.friction  # mu
 acc = 0                   # acceleration
 gravity = 9.81            # gravity on earth  
 
